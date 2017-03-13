@@ -1,0 +1,140 @@
+body 
+{
+	font-family: 'Source Code Pro', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 1em;
+	line-height: 1.5;
+	color: #333333;
+	background-color: #96dfff;
+}
+
+h1, h2, h3 
+{
+	font-weight: 700;
+	color: black;
+}
+
+b
+{
+	font-weight: 700;
+}
+
+p 
+{
+	margin: 2em 0 2em 0;
+}
+
+
+
+.content 
+{
+	margin: 2em auto;
+	max-width: 40em;
+	padding: 0 1em;
+}
+
+
+
+.flex-h-centred
+{
+	display: flex;
+	justify-content: center; 
+}
+
+.flex-v-centred
+{
+	display: flex;
+	align-items: center;
+}
+
+.flex-v-bottom
+{
+	display: flex;
+	align-items: flex-end;
+}
+
+
+html, body 
+{
+	height: 100%;
+}
+
+.full 
+{
+	height: 100%;
+	background-color: #96dfff;
+    background-size: cover;
+	
+}
+
+#one 
+{
+	background-color: #96dfff;
+}
+
+#two 
+{
+	background-color: #96dfff;
+}
+
+#three 
+{
+	background-color: #96dfff;
+}
+
+#four 
+{
+	background-color: #96dfff;
+}
+
+#five 
+{
+	background-color: #96dfff;
+}
+
+
+#six
+{
+	background-color: #96dfff;
+}
+
+
+#seven
+{
+	background-color: #96dfff;
+}
+
+
+#eight 
+{
+	background-color: #96dfff;
+}
+
+#mc_embed_signup 
+{	
+	width: 30em;
+	height: 13em;
+	background: yellow;
+}
+
+input 
+{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+input[type="email"] 
+{
+	padding: .5em;
+}
+
+input[type="submit"]
+{
+	margin: 1em 0;
+	background-color: black;
+	color: yellow;
+	border-radius: .25em;
+	border: none;
+	padding: .5em;
+	
+}
